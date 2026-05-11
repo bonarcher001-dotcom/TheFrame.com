@@ -97,7 +97,16 @@
             </tr>
         </table>
     </section>
-<iframe width="560" height="315" src="https://www.youtube.com/shorts/9O67GmguZbM" frameborder="0" allowfullscreen></iframe>
+<iframe 
+  width="315" 
+  height="560" 
+  src="https://www.youtube.com/embed/9O67GmguZbM" 
+  title="How Frame of Reference Determine Motion" 
+  frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+  referrerpolicy="strict-origin-when-cross-origin" 
+  allowfullscreen>
+</iframe>
 
     <footer>
         <p>Created by CHMSU TALISAY BSED Science-3A &copy; 2026</p>
