@@ -63,9 +63,9 @@
 
     <section id="definition">
         <h2>What is an Inertial Frame?</h2>
-        <p>In physics, a <strong>frame of reference</strong> is basically a coordinate system used to measure the position and motion of objects. An <strong>Inertial Frame</strong> is a frame that is either at rest or moving at a <span class="highlight">constant velocity</span>.</p>
+        <p>A frame of reference is simply your "point of view" when watching something move. An inertial frame is a viewpoint that is perfectly steady—meaning it is either standing still or moving at a constant speed in a straight line.</p>
         
-        <p>Crucially, in an inertial frame, Newton’s First Law holds true: an object stays at rest or in uniform motion unless acted upon by an external force. There is no acceleration involved!</p>
+        <p>In this steady frame, there is no acceleration (no speeding up, slowing down, or turning). Because of this stability, physics follows Newton’s First Law. objects will naturally stay still or keep moving at the same speed unless a physical force actually pushes or pulls them.</p>
     </section>
 
     <section id="relativity">
